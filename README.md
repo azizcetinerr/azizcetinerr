@@ -26,11 +26,10 @@
 
 ### 📈 GitHub İstatistiklerim
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azizcetinerr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 📫 Bana Ulaşın
-- 💼 [LinkedIn Profilin](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-- 📧 [E-posta Adresin]
+- 📧 cetiner.azizmuammer@ogr.ahievran.edu.tr
