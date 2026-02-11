@@ -19,7 +19,6 @@
 
 ### 🧪 Öne Çıkan Projelerim
 * **Zatürre Teşhisi (Pneumonia Detection):** VGG16 ve DenseNet121 mimarilerine "Attention Mechanism" ekleyerek geliştirdiğim derin öğrenme projesi.
-* **Personel Atama Optimizasyonu:** Hastane personel dağılımını Macar Algoritması (Hungarian Algorithm) kullanarak optimize eden sistem.
 * **Akıllı CV Eşleştirme:** Europass formatındaki CV'leri gönüllülük projeleriyle eşleştiren AI tabanlı araç.
 
 ---
