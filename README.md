@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Machine Learning &amp; Artificial Intelligence</b><br>
+  Software Developer · <a href="https://www.adaptcentre.ie/">ADAPT Centre</a>, Maynooth University<br>
   Computer Engineering (final year) · Kırşehir Ahi Evran University
 </p>
 
@@ -26,7 +27,7 @@ I work at the intersection of machine learning and scientific rigor. Two threads
 
 **Reproducibility.** Taking published models apart and checking whether the reported gains survive contact with a correct evaluation protocol. Often they don't.
 
-Currently preparing work for journal submission and open to research collaborations.
+Currently a software developer at the ADAPT Centre (Maynooth University), preparing work for journal submission, and looking for PhD opportunities starting 2027.
 
 ---
 
@@ -49,7 +50,17 @@ Each model was re-run in an isolated environment and compared through a shared e
 
 `reproducibility` · `benchmark-evaluation` · `clinical-trials` · `drug-discovery` · `tabular-foundation-models`
 
-→ Defects reported upstream to [HINT](https://github.com/futianfan/clinical-trial-outcome-prediction) and [MEXA-CTP](https://github.com/murai-lab/MEXA-CTP) · Preprint in preparation · [Code &amp; data](https://github.com/azizcetinerr/top-benchmark-reeval)
+→ Defects reported upstream: [HINT #15](https://github.com/futianfan/clinical-trial-outcome-prediction/issues/15) · [MEXA-CTP #2](https://github.com/murai-lab/MEXA-CTP/issues/2)<br>
+→ Preprint in preparation: *Is Progress on the TOP Benchmark Measurable? A Forensic Re-evaluation of HINT and MEXA-CTP* (with Kolawole John Adebayo) · [Code &amp; data](https://github.com/azizcetinerr/top-benchmark-reeval)
+
+<br>
+
+### Fine-Tuning vs. CBAM for Paediatric Pneumonia Detection
+**Conference paper · IDAP'26 (IEEE) · Oral presentation**
+
+A controlled comparison of full fine-tuning and Convolutional Block Attention Modules (CBAM) on VGG16, MobileNetV2 and DenseNet121 backbones for paediatric pneumonia detection from chest X-rays. With Ayla Kayabaş.
+
+→ [Repository](https://github.com/azizcetinerr/Deep-Learning-Based-Pneumonia-Detection-from-Chest-X-Ray-Images)
 
 <br>
 
@@ -71,19 +82,17 @@ The FSConv architecture from Silva-Rodríguez et al., rebuilt from the paper wit
 
 <br>
 
-### Pneumonia Detection from Chest X-Rays
-**Deep learning · Medical imaging**
+### PV Plant Fault Monitoring &amp; Energy Forecasting
+**TÜBİTAK 1002-A · Time series · Deep learning**
 
-VGG16 and DenseNet121 backbones extended with an attention mechanism for pneumonia classification from chest radiographs.
-
-→ [Repository](https://github.com/azizcetinerr/Deep-Learning-Based-Pneumonia-Detection-from-Chest-X-Ray-Images)
+Real-time fault monitoring and deep-learning-based energy production forecasting for photovoltaic plants. Scholarship researcher on a TÜBİTAK 1002-A project.
 
 <br>
 
 ### Empowering User Control in Job Matching Systems
 **NLP · Recommender systems**
 
-A hybrid matching architecture combining sincerity- and trust-aware NLP signals, giving users explicit control over how their profile is matched against opportunities.
+A hybrid matching architecture: SkillNER for résumé parsing and LLM-based scoring of sincerity and trust signals, giving users explicit control over how their profile is matched against opportunities.
 
 → [Repository](https://github.com/azizcetinerr/EMPOWERING-USER-CONTROL-IN-JOB-MATCHING-SYSTEMS)
 
